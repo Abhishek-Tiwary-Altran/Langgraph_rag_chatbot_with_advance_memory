@@ -1,5 +1,3 @@
-# Langgraph_rag_chatbot_with_advance_memory
-
 # LangGraph RAG - Agentic AI Chatbot with Memory & Observability
 
 An enterprise-grade Retrieval-Augmented Generation (RAG) chatbot system built with LangGraph, AWS Bedrock AgentCore, and Streamlit. This system provides intelligent document processing, persistent conversational memory, adaptive query routing, and comprehensive observability for production deployments.
